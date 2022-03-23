@@ -15,9 +15,16 @@ This is a template for creating node CLI apps.
 
 ## Setup
 
-When [nodejs](https://nodejs.org/en/) has been installed on the system, we need to install all the packages that are dependencies in this project.
 
-To install the dependencies, start a terminal in the root location of the project and run the following command (the installation process might take a while).
+
+**Install the dependencies**
+
+```terminal
+npm i
+````
+
+
+**Install the CLI globally**
 
 *note: only need to be installed one time, as its symlinked*
 
